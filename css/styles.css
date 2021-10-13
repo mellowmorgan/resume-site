@@ -1,0 +1,19 @@
+.education{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:darkorchid;
+}
+
+.experience{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color:darkblue;
+
+}
+
+.skills{
+  font-family:'Times New Roman', Times, serif;
+  color:darkmagenta;
+}
+.workplace{
+  font-size: 90px;
+
+}
