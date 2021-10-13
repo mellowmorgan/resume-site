@@ -17,7 +17,7 @@ A resume showing education, work experience, skills.
 * Open index.html in your browser.
 
 ## Known Bugs
-No known bugs or issues.
+No known bugs.
 
 ## License
 [MIT](https://opensource.org/licenses/MIT)
